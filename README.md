@@ -1,3 +1,3 @@
 # Exemplo de Git
 
-Demonstração com centralized workflow na StartSe.
+Demonstração com fluxo de feature branch na StartSe.
